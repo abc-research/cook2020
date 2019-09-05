@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "mint" # "aqua", "contrast", "dark", "dirt", "neon", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nurse Care Challenge"
+title                    : "Cooking Activity Recognition Challenge"
 title_separator          : "-"
-name                     : "HASCA Workshop"
-description              : "Recognizing nurse care activities in a nursing home"
-url                      : "http://hasc-nurse-challenge.github.io"
+name                     : "ICRA Workshop"
+description              : "Recognizing cooking activities"
+url                      : "http://abc-research.github.io/cook2020"
 baseurl                  : "/"
-repository               : "hasc-nurse-challenge/hasc-nurse-challenge"
+repository               : "abc-research/2020"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
