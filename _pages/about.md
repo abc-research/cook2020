@@ -2,7 +2,7 @@
 layout: single
 permalink: /about/
 title: "Rules"
-excerpt: "About the Challenge"
+excerpt: "Challenge Rules"
 last_modified_at: 2019-04-03T15:15:09-04:00
 ---
 The Cooking Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/) and [Loria](https://www.loria.fr/).
