@@ -5,27 +5,24 @@ title: "Rules"
 excerpt: "About the Challenge"
 last_modified_at: 2019-04-03T15:15:09-04:00
 ---
-The Nurse Care Challenge is organized by [Sozolab](http://sozolab.jp/) and sponsored by [Carecom](https://www.carecom.jp/global/). 
-The Challenge will be hosted in IEEE Data Port. 
-All participants agree to the following rules. 
+The Cooking Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/) and [Loria](https://www.loria.fr/).
+
 
 # Registration
-Participants should register via IEEE Data Port.
+Participants should accept all the terms and conditions in this page before registering.
+By registering, participants agree to these terms.
+[Sozolab](http://sozolab.jp/)
 
 # Elegibility
-Challenge is open to students, graduate students, researchers, professors, and data scientists. Employees of Carecom ("Sponsor"), and members or Sozolab ("Organizers") are not eligible to enter or win. 
+Challenge is open to students, graduate students, researchers, professors, and data scientists. Employees of Loria or members of Sozolab ("Organizers") are not eligible to enter or win.
 
 
-# Challenge
-Participants should submit their results in a .csv file with two columns: segment_id and activity_id and one line for each segment in the test data. The test data contains 116 segments. 
+# Submissions
+Participants should submit their results in a .csv file.
+Only one submission per team is accepted. If multiple submissions are received, only the last submission will be considered.
 
-# Workshop Papers
-All participants are encouraged to submit a paper to the [HASCA Workshop 2019](http://hasca2019.hasc.jp/) detailing their proposal.  
-
-Only participants who submit a paper will be considered for the final ranking. 
- 
-# One account per participant
-You cannot sign up to IEEE DataPort from multiple accounts and therefore you cannot submit from multiple accounts.
+# Workshop Participation
+All participants are encouraged to participate in the Workshop to share details about their approach.  
 
 # Data use
 All participants may use the data free of charge under CC license.
@@ -33,9 +30,6 @@ All participants may use the data free of charge under CC license.
 # Team Limits
 The  maximum size of a team is 10 participants.
 
-# Submission Limits
-You may submit up to 2 submissions for judging.
-
 # Competition Timeline
-Start Date: 26/5/2019 5:00 PM UTC
-End Date: 30/6/2019 11:59 PM UTC
+Start Date: 01/02/2020 00:00 UTC
+End Date: 30/4/2020 23:59 UTC
