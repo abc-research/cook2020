@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "The Challenge"
-    url: /learn/
-  - title: "Data Description"
+  - title: "Data"
     url: /data_description/
-  - title: "How to Participate"
+  - title: "Registration"
     url: /how_to/
   - title: "Rules"
     url: /about/
