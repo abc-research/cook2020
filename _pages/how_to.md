@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How to Participate"
+title: ""
 permalink: /how_to/
 date: 2019-05-22T00:00:00+09:00
 ---
