@@ -10,7 +10,7 @@ The Cooking Activity Recognition Challenge is organized by [Sozolab](http://sozo
 
 # Registration
 Participants should accept all the terms and conditions in this page before registering.
-By registering, participants agree to these terms.
+By registering, participants agree to these terms. Participants should also register as workshop participants in [ICRA](http://icra2020.org/registration). Participants not registered in the workshop will not be considered in the final leaderboard of the challenge.
 
 # Elegibility
 Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of LARSEN Team and members of Sozolab ("Organizers") are not eligible to enter or win.
