@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" # "aqua", "contrast", "dark", "dirt", "neo
 locale                   : "en-US"
 title                    : "Cooking Activity Recognition Challenge"
 title_separator          : "-"
-name                     : "ICRA Workshop"
+name                     : "Proposead as ICRA Workshop"
 description              : "Recognizing cooking activities"
 url                      : "http://abc-research.github.io/cook2020"
 baseurl                  : "/"
