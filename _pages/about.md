@@ -11,7 +11,6 @@ The Cooking Activity Recognition Challenge is organized by [Sozolab](http://sozo
 # Registration
 Participants should accept all the terms and conditions in this page before registering.
 By registering, participants agree to these terms.
-[Sozolab](http://sozolab.jp/)
 
 # Elegibility
 Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of LARSEN Team and members of Sozolab ("Organizers") are not eligible to enter or win.
