@@ -32,4 +32,5 @@ The  maximum size of a team is 10 participants.
 
 # Competition Timeline
 Start Date: 01/02/2020 00:00 UTC
+
 End Date: 30/4/2020 23:59 UTC
