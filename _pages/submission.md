@@ -13,4 +13,4 @@ Each row represents a file, its macro activity and the micro activities occurrin
 [Make a submission](https://script.google.com/macros/s/AKfycbwvkIzFc7z9a19vSGYUwsymdSBk4y5dbTRLABA7/exec)
 
 In addition, participants are required to submit a paper for ABC Conference (abc-research.github.io) detailing their solution. The paper must include a description of their pipeline, features used, algorithm, parameters, any optimization followed, etc.
-A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required. The paper submission must follow the template and rules for the ABC Conference (abc-research.github.io)
+A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required. The paper submission must follow the template and rules for the [ABC Conference](abc-research.github.io)
