@@ -1,9 +1,9 @@
 ---
 layout: single
-permalink: /data/
+permalink: /data_description/
 date: 2019-04-14T00:00:00+09:00
 ---
-##Data Description
+## Data Description
 
 The data has been collected using two smartphones (right arm and left hip), two smartwatches (both wrists) and one motion capture system with 29 markers. There were 4 subjects who prepared 3 recipes (sandwich, fruit salad, cereal) 5 times each following a script but acting as naturally as possible.
 
