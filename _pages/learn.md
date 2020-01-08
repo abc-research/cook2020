@@ -5,26 +5,26 @@ permalink: /learn/
 date: 2019-04-14T00:00:00+09:00
 ---
 
-## Why nurse care activity recognition?
-In an aging population, the demand for nurse workers increases to care for elders. Helping nurse workers make their work more efficient, will help increase elder quality of life, as the nurses can focus their efforts on care activities instead of other activities such as documentation.
+Activity Recognition is the process of automatically inferring what a user is doing based on sensor observations. When your smartphone automatically identifies if you have been walking or running, it is doing activity recognition using the observations of its accelerometer sensor. Other applications of activity recognition include remote monitoring of daily activities for elders living alone and automatic record creation for nurses in hospitals. Although these applications only require the recognition of the activity being done, i.e.  cooking, such complex activities are usually made up of several smaller activities like ‘taking from the fridge’. Recognizing such steps can have several advantages.  For instance, in the scenario of an elder living alone recognizing the steps can be used to remind them of a missing step, or to ensure a healthy diet is being followed. In the scenario of the nursing record, recognizing the steps can be used for care quality assessment and for ensuring that safety protocols have been followed like washing the hands at the proper moments.
 
-Activity Recognition can be used for this goal. If we can recognize what activity a nurse is engaged in, we can partially automate documentation process to reduce time spent on this task, monitor care plan compliance to assure that all care activities have been done for each elder, among others.  
+Current activity recognition systems focus on recognizing either the complex label (macro activity) or the small steps (micro activities) but their combined recognition is critical for analysis like the ones proposed. In fact, in a nursing scenario, washing the hands after taking blood is very different than doing it before, as it is mandatory. Therefore, in this challenge, we aim at the recognition of the macro and micro activities taking place during cooking sessions.
 
 ## Challenge Goal
-The goal of the HASC Nurse Care Activity Recognition Challenge is to recognize nurse activities by means of body movement analysis. Although complex activities can benefit from other types of sensors such as object or environment sensors, in a nursing domain these can be difficult to install. For example, in nursing homes, extra care for not disturbing the residents environment must be considered and the sudden installation of sensors can disturb them. Moreover, some nurses are working as visitor nurses, visiting each patient at their own homes where we have no control of sensors available or environment. For these reasons, the challenge aims at measuring the feasibility of recognizing nursing activities based on body movement.
+The goal of the Cooking Activity Recognition Challenge is to recognize both the macro activity (recipe) and the micro activities taking place during a 30 second window based on motion data collected with accelerometer and motion capture sensors. [Read data description](/data_description/).  
 
-## Data
-The data for the challenge has been collected in a controlled environment for evaluating the feasibility of recognition. Six activities were performed by eight subjects with 5 repetitions per activity. The laboratory emulated a real environment with hospital bed, desk and all instruments used by the nurse.
-The activities have been chosen in collaboration with nurses and CARECOM company to make the most important activities.
+[Register to participate](/how_to/).
+[Get the data](/data/).
 
-Four types of sensors have been installed.
-Motion capture sensors with 29 markers, accelerometer sensor in the chest, bluetooth based in-door positioning and pressure sensor. 
-[Read more](/data_description/).
+The training dataset contains data about 3 subjects and contains all activity labels.
+The test dataset contains data about the other subject and is not labeled.
+Participants must submit their predicted macro and micro activities on the test dataset using their models.
 
-## Challenge
-For the challenge the dataset has been divided in two subsets.
-The first subset contains data about 6 subjects and contains all activity labels.
-The second subset contains data about the other 2 subjects and is not labeled.
-Participants must submit their results of predicted activities on the second dataset using their models.
+[Make a submission](/submit/)
 
-Read the [rules](/rules/) and [how to participate](/how_to/).
+## Evaluation
+Submissions will be evaluated based using the following formula:
+
+
+## Prizes
+The winner of the challenge will be invited to a visit to our laboratory installations in Kitakyushu, Japan with travel costs supported.
+Read the [prize rules](/prize_rules/)

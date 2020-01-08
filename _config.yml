@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "contrast" # "aqua", "contrast", "dark", "dirt", "neo
 locale                   : "en-US"
 title                    : "Cooking Activity Recognition Challenge"
 title_separator          : "-"
-name                     : "Proposead as ICRA Workshop"
+name                     : "ABC Series"
 description              : "Recognizing cooking activities"
 url                      : "http://abc-research.github.io/cook2020"
 baseurl                  : "/"
@@ -118,13 +118,13 @@ author:
       url: mailto:hasc.nurse.challenge@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://abc-research.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/ABC_Conference"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/ActivityBehaviorComputingConference/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -137,10 +137,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/ABC_Conference"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/ActivityBehaviorComputingConference/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
