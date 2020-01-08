@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: //prize_rules//
+permalink: /prize_rules/
 title: "Prize Rules"
 excerpt: "Prize Rules"
 last_modified_at: 2020-01-08T15:15:09-04:00

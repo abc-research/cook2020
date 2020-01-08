@@ -25,3 +25,5 @@ Training data corresponds to the data of three subjects.
 The test data corresponds to the fourth subject’s data.
 
 Test data will become available in March 1st 2020.
+
+[Make a submission](/submit/)

@@ -4,6 +4,8 @@ main:
     url: /data_description/
   - title: "Registration"
     url: /how_to/
+  - title: "Submit a result"
+    url: /submit/
   - title: "Rules"
     url: /about/
   # - title: "Sample Collections"

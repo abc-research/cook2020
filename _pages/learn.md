@@ -13,7 +13,7 @@ Current activity recognition systems focus on recognizing either the complex lab
 The goal of the Cooking Activity Recognition Challenge is to recognize both the macro activity (recipe) and the micro activities taking place during a 30 second window based on motion data collected with accelerometer and motion capture sensors. [Read data description](/data_description/).  
 
 [Register to participate](/how_to/).
-[Get the data](/data/).
+[Get the data](/data_description/).
 
 The training dataset contains data about 3 subjects and contains all activity labels.
 The test dataset contains data about the other subject and is not labeled.
