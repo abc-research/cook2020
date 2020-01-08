@@ -33,7 +33,7 @@ One representative of the winning team will be invited to our laboratory install
 
 When the winner is announced the winning team will be contacted to choose their representative. We will send an invitation letter for visa purposes if needed. The travel reservations may be done by the winner or by us, at the best convenience. No cash will be given to the winner in replacement of the travel and only travel expenses may be covered.   
 
-Other conditions [apply](/prize_rules/)
+Other conditions [apply](/cook2020/prize_rules/)
 
 # Competition Timeline
 Start Date: 10/01/2020 00:00 UTC
