@@ -10,16 +10,18 @@ Activity Recognition is the process of automatically inferring what a user is do
 Current activity recognition systems focus on recognizing either the complex label (macro activity) or the small steps (micro activities) but their combined recognition is critical for analysis like the ones proposed. In fact, in a nursing scenario, washing the hands after taking blood is very different than doing it before, as it is mandatory. Therefore, in this challenge, we aim at the recognition of the macro and micro activities taking place during cooking sessions.
 
 ## Challenge Goal
-The goal of the Cooking Activity Recognition Challenge is to recognize both the macro activity (recipe) and the micro activities taking place during a 30 second window based on motion data collected with accelerometer and motion capture sensors. [Read data description](/data_description/).  
+The goal of the Cooking Activity Recognition Challenge is to recognize both the macro activity (recipe) and the micro activities taking place during a 30 second window based on motion data collected with accelerometer and motion capture sensors. [Read data description](/cook2020/data_description/).  
 
-[Register to participate](/how_to/).
-[Get the data](/data_description/).
+[Register to participate](/cook2020/how_to/).
+
+
+[Get the data](/cook2020/data_description/).
 
 The training dataset contains data about 3 subjects and contains all activity labels.
 The test dataset contains data about the other subject and is not labeled.
 Participants must submit their predicted macro and micro activities on the test dataset using their models.
 
-[Make a submission](/submit/)
+[Make a submission](/cook2020/submit/)
 
 ## Evaluation
 Submissions will be evaluated based using the following formula:
@@ -27,4 +29,4 @@ Submissions will be evaluated based using the following formula:
 
 ## Prizes
 The winner of the challenge will be invited to a visit to our laboratory installations in Kitakyushu, Japan with travel costs supported.
-Read the [prize rules](/prize_rules/)
+Read the [prize rules](/cook2020/prize_rules/)

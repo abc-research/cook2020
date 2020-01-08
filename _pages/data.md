@@ -12,7 +12,7 @@ The data has been collected using two smartphones (right arm and left hip), two 
 The training data consists of segments each representing 30 seconds of activity. For each segment, a file for each sensor used is given. The data is organized in five folders, one for each sensor. All files belonging to the same segment have the same name. The labels.txt file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. The labels file has the same format as the submission expected.
 Figure 1 shows an example of the file structure, where the same segment is represented in all 5 sensor types.
 
-![folder structure shows 5 folders with one file in each](/assets/images/folder_structure.png)
+![folder structure shows 5 folders with one file in each](/cook2020/assets/images/folder_structure.png)
 
 An example of a labels file is shown below
 ```
@@ -26,4 +26,4 @@ The test data corresponds to the fourth subject’s data.
 
 Test data will become available in March 1st 2020.
 
-[Make a submission](/submit/)
+[Make a submission](/cook2020/submit/)
