@@ -19,7 +19,7 @@ The data has been separated into training data and test data. Training data cont
 
 Each recording has been segmented into 30-second segments. Each segment was assigned a random identifier, so the order of the segments is unknown. Each sensor data is stored in a separate file with the segment-id used to identify related files. Each body part is represented by one folder. The following figure illustrates this process.
 
-![one recording split into 30 seconds and many files per segment](/cook2020/assets/images/data_structure.png)
+![one recording split into 30 seconds and many files per segment](/cook2020/assets/images/datastructure.png)
 
 
 The training data folder contains five folders: left hip, right arm, right wrist, left wrist and mocap. Each folder contains the same number of files, one per segment. The name of the file identifies the subject and the segment id. Figure 1 shows the example of segment 9 represented in all five folders.
@@ -28,7 +28,7 @@ The training data folder contains five folders: left hip, right arm, right wrist
 
 Remember that the number is random, so the order of the files is not the order of the segments.
 
-The training data contains a labels.txt file. This file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. An example of a labels file is shown below showing three rows of the file. 
+The training data contains a labels.txt file. This file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. An example of a labels file is shown below showing three rows of the file.
 ```
 subject1_file_939,fruitsalad,Take,Peel,
 subject1_file_264,fruitsalad,Put,Cut,Peel,
