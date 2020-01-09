@@ -10,4 +10,6 @@ To make the competition beginner friendly, we will post a set of beginner exampl
 
 [Read the data 1](/cook2020/example_1)
 
+Get the code of all the tutorials in [our repository](https://github.com/sozo-lab/cook2020_tutorials)
+
 <sup>Note: these tutorials are written by [Paula Lago](https://www.researchgate.net/profile/Paula_Lago2)</sup>
