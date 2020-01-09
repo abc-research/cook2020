@@ -4,7 +4,7 @@ title: Data Description
 permalink: /data_description/
 date: 2020-01-08T00:00:00+09:00
 ---
-The data has been collected using two smartphones (right arm and left hip), two smartwatches (both wrists) and one motion capture system with 29 markers. There were 4 subjects who prepared 3 recipes (sandwich, fruit salad, cereal) 5 times each following a script but acting as naturally as possible.
+The data has been collected using two smartphones (right arm and left hip), two smartwatches (both wrists) and one motion capture system with 29 markers. There were 4 subjects who prepared 3 recipes (sandwich, fruit salad, cereal) 5 times each. The subjects followed a script for each recipe but acted as naturally as possible.
 
 [Download the training data](https://drive.google.com/open?id=1qesNRRpV-xbRzhdnPhcPY8MtZ-2wKUxe)
 
@@ -15,20 +15,25 @@ The following is an example of the motion capture recording.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9h4AwslZQ_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Data structure
-Each recording has been segmented into 30-second segments. Each segment was assigned a random identifier, so the order of the segments is unknown. Each sensor data is stored in a separate file with the segment-id used to identify related files.
+The data has been separated into training data and test data. Training data contains data from 3 subjects and test data contains the fourth subject's data.
 
-Each sensor is represented by one folder. The training data folder contains five folders: left hip, right arm, right wrist, left wrist and mocap. Each folder contains the files of three subjects and all recipes. Figure 1 shows the example of segment 9 represented in all five folders.
+Each recording has been segmented into 30-second segments. Each segment was assigned a random identifier, so the order of the segments is unknown. Each sensor data is stored in a separate file with the segment-id used to identify related files. Each body part is represented by one folder. The following figure illustrates this process.
+
+![one recording split into 30 seconds and many files per segment](/cook2020/assets/images/data_structure.png)
+
+
+The training data folder contains five folders: left hip, right arm, right wrist, left wrist and mocap. Each folder contains the same number of files, one per segment. The name of the file identifies the subject and the segment id. Figure 1 shows the example of segment 9 represented in all five folders.
 
 ![folder structure shows 5 folders with one file in each](/cook2020/assets/images/folder_structure.png)
 
-The labels.txt file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. An example of a labels file is shown below
+Remember that the number is random, so the order of the files is not the order of the segments.
+
+The training data contains a labels.txt file. This file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. An example of a labels file is shown below showing three rows of the file. 
 ```
 subject1_file_939,fruitsalad,Take,Peel,
 subject1_file_264,fruitsalad,Put,Cut,Peel,
 subject1_file_975,fruitsalad,Take,Add,Mix,
 ```
-
-The test data corresponds to the fourth subject’s data. It has the same structure as the training data but the labels file has been removed.
 
 Test data will become available in March 1st 2020.
 
