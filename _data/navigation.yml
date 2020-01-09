@@ -6,6 +6,8 @@ main:
     url: /data_description/
   - title: "Registration"
     url: /how_to/
+  - title: "Tutorials"
+    url: /tutorial/
   - title: "Submit a result"
     url: /submit/
   - title: "Rules"
