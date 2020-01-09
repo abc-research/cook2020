@@ -8,20 +8,27 @@ The data has been collected using two smartphones (right arm and left hip), two 
 
 [Download the training data](https://drive.google.com/open?id=1qesNRRpV-xbRzhdnPhcPY8MtZ-2wKUxe)
 
-The training data consists of segments each representing 30 seconds of activity. For each segment, a file for each sensor used is given. The data is organized in five folders, one for each sensor. All files belonging to the same segment have the same name. The labels.txt file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. The labels file has the same format as the submission expected.
-Figure 1 shows an example of the file structure, where the same segment is represented in all 5 sensor types.
+The following is a video example of one recording session during the sandwich recipe.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CuL029l5Vpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The following is an example of the motion capture recording.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9h4AwslZQ_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Data structure
+Each recording has been segmented into 30-second segments. Each segment was assigned a random identifier, so the order of the segments is unknown. Each sensor data is stored in a separate file with the segment-id used to identify related files.
+
+Each sensor is represented by one folder. The training data folder contains five folders: left hip, right arm, right wrist, left wrist and mocap. Each folder contains the files of three subjects and all recipes. Figure 1 shows the example of segment 9 represented in all five folders.
 
 ![folder structure shows 5 folders with one file in each](/cook2020/assets/images/folder_structure.png)
 
-An example of a labels file is shown below
+The labels.txt file contains one row per file, and each row contains the file name, the macro activity and the micro activities all separated by commas. An example of a labels file is shown below
 ```
 subject1_file_939,fruitsalad,Take,Peel,
 subject1_file_264,fruitsalad,Put,Cut,Peel,
 subject1_file_975,fruitsalad,Take,Add,Mix,
 ```
 
-Training data corresponds to the data of three subjects.
-The test data corresponds to the fourth subject’s data.
+The test data corresponds to the fourth subject’s data. It has the same structure as the training data but the labels file has been removed.
 
 Test data will become available in March 1st 2020.
 
