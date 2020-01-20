@@ -11,6 +11,7 @@ To make the competition beginner friendly, we will post a set of beginner exampl
 [Intro to activity recognition](https://docs.google.com/presentation/d/1_Q9H8WoQZm-VCncUZxrqAtV_YUE54m6N0GAyeWnfoSU/edit?usp=sharing)
 
 [Read the data 1](/cook2020/example_1)
+[Read the data 2: Read all files](/cook2020/example_2)
 
 Get the code of all the tutorials in [our repository](https://github.com/sozo-lab/cook2020_tutorials)
 
