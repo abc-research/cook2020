@@ -37,4 +37,4 @@ Other conditions [apply](/cook2020/prize_rules/)
 
 # Competition Timeline
 Start Date: 10/01/2020 00:00 UTC
-End Date: 18/03/2020 23:59 UTC
+End Date: 30/03/2020 23:59 UTC
