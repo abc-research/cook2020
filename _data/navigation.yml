@@ -8,6 +8,8 @@ main:
     url: /how_to/
   - title: "Tutorials"
     url: /tutorial/
+  - title: "FAQ"
+    url: /faq/
   - title: "Submit a result"
     url: /submit/
   - title: "Rules"
