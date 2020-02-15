@@ -6,7 +6,10 @@ date: 2020-01-08T00:00:00+09:00
 ---
 The data has been collected using two smartphones (right arm and left hip), two smartwatches (both wrists) and one motion capture system with 29 markers. There were 4 subjects who prepared 3 recipes (sandwich, fruit salad, cereal) 5 times each. The subjects followed a script for each recipe but acted as naturally as possible.
 
-[Download the training data](https://drive.google.com/open?id=1qesNRRpV-xbRzhdnPhcPY8MtZ-2wKUxe)
+*Important Notice*
+We have updated the dataset, so the file names may have changed. The updated dataset contains timestamps (in milliseconds) for the data. The timestamp indicates the number of milliseconds since the segment started. You can now work with the missing data.
+
+[Download the training data](https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities)
 
 The following is a video example of one recording session during the sandwich recipe.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CuL029l5Vpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
