@@ -4,16 +4,16 @@ main:
     url: /learn/
   - title: "Data"
     url: /data_description/
-  - title: "Registration"
-    url: /how_to/
+  - title: "Submit a result"
+    url: /submit/
   - title: "Tutorials"
     url: /tutorial/
   - title: "FAQ"
     url: /faq/
-  - title: "Submit a result"
-    url: /submit/
   - title: "Rules"
     url: /about/
+  - title: "Registration"
+    url: /how_to/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

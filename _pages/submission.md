@@ -11,7 +11,13 @@ file_id; macro; micro
 
 Each row represents a file, its macro activity and the micro activities occurring in the file. Micro activities should be separated by commas in no particular order.
 
-[Make a submission](https://script.google.com/macros/s/AKfycbwvkIzFc7z9a19vSGYUwsymdSBk4y5dbTRLABA7/exec)
+[Make a submission](https://forms.gle/mdNrWtNXjgZJrLvg8)
 
 In addition, participants are required to submit a paper for ABC Conference (abc-research.github.io) detailing their solution. The paper must include a description of their pipeline, features used, algorithm, parameters, any optimization followed, etc.
-A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required. The paper submission must follow the template and rules for the [ABC Conference](abc-research.github.io)
+A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required.
+
+The paper submission must follow the template and rules for the [ABC Conference](abc-research.github.io)
+
+To submit a paper participants login to CMT and choose the ABC-Challenge track
+
+[SUbmit a paper](https://cmt3.research.microsoft.com/IVPRICIEV2020/Submission/Index)
