@@ -28,4 +28,8 @@ We had an error in the published dataset but it has now been corrected and updat
 
 **There are some duplicated files in the training data**
 
-We had an error in the published dataset but it has now been corrected and updated. Please download the latest version of the dataset. 
+We had an error in the published dataset but it has now been corrected and updated. Please download the latest version of the dataset.
+
+**Can you provide the names of the markers in motion capture data?**
+The markers are in the following order:
+Top.Head Front.Head Rear.Head R.Shoulder R.Offset R.Elbow R.Wrist L.Shoulder L.Elbow L.Wrist R.ASIS L.ASIS V.Sacral R.Thigh R.Knee R.Shank R.Ankle R.Heel R.Toe L.Thigh L.Knee L.Shank L.Ankle L.Heel L.Toe R.Knee.Medial R.Ankle.Medial L.Knee.Medial L.Ankle.Medial V_Mid_ASIS V_Pelvis_Origin V_R.Hip_JC V_L.Hip_JC V_R.Knee_JC_Static V_L.Knee_JC_Static V_R.Ankle_JC_Static V_L.Ankle_JC_Static V_R.Knee_JC V_L.Knee_JC V_R.Ankle_JC V_L.Ankle_JC V_Mid_Hip V_Mid_Shoulder V_R.Hand V_L.Hand V_R.Toe_Offset_Static V_L.Toe_Offset_Static V_R.Toe_Offset V_L.Toe_Offset   
