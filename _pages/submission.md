@@ -13,6 +13,9 @@ Each row represents a file, its macro activity and the micro activities occurrin
 
 [Make a submission](https://forms.gle/mdNrWtNXjgZJrLvg8)
 
+If you have any problem with submission through the form please contact us at
+abc at sozolab.jp for instructions.
+
 In addition, participants are required to submit a paper for ABC Conference (abc-research.github.io) detailing their solution. The paper must include a description of their pipeline, features used, algorithm, parameters, any optimization followed, etc.
 A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required.
 
