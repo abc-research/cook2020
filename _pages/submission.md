@@ -27,6 +27,7 @@ A summary of the resources used such as memory, training time, testing time and 
   <li>Window size and Post processing</li>
   <li>Training and testing time</li>
   <li>Machine specification (RAM, CPU, GPU)</li>
+</ul>
 
 The paper submission must follow the template and rules for the [ABC Conference](https://abc-research.github.io)
 
