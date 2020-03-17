@@ -19,13 +19,14 @@ abc at sozolab.jp for instructions.
 In addition, participants are required to submit a paper for ABC Conference (abc-research.github.io) detailing their solution. The paper must include a description of their pipeline, features used, algorithm, parameters, any optimization followed, etc.
 A summary of the resources used such as memory, training time, testing time and CPU or GPU resources is also required.
 
-<b>Please include a table in the "Appendix" section of the paper containing the following information:
-->Used sensor modalities
-->Features used
-->Programming language and libraries used
-->Window size and Post processing
-->Training and testing time
-->Machine specification (RAM, CPU, GPU)</b>
+<b>Please include a table in the "Appendix" section of the paper containing the following information:</b>
+<ul>
+  <li>Used sensor modalities</li>
+  <li>Features used</li>
+  <li>Programming language and libraries used</li>
+  <li>Window size and Post processing</li>
+  <li>Training and testing time</li>
+  <li>Machine specification (RAM, CPU, GPU)</li>
 
 The paper submission must follow the template and rules for the [ABC Conference](https://abc-research.github.io)
 
