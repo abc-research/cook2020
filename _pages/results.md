@@ -18,7 +18,7 @@ The Cooking Activity Recognition Challenge was successfully held and the results
 
 <i>Shkurta Gashi, Elena Di Lascio and Silvia Santini
 
-<h4>Third place</h4>
+<h3>Third place</h3>
 
 <b>Team UCLA_Orion</b>
 
