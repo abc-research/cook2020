@@ -24,7 +24,7 @@ The Cooking Activity Recognition Challenge was successfully held and the results
 
 <i>Swapnil Sayan Saha, Sandeep Singh Sandha and Mani Srivastava
 
-##Other participants
+<h2>Other participants<h2>
 
 <b>TeamIDAG</b>
 <i>Ryoichi Kojima, Shinya Wada, Roberto Legaspi and Kiyohito Yoshihara 
