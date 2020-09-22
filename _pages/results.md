@@ -6,42 +6,42 @@ date: 2020-09-23T00:00:00+09:00
 ---
 The Cooking Activity Recognition Challenge was successfully held and the results were announced during International Conference on Activity and Behavior Computing (ABC2020), which was held in Kitakyushu, Japan.
 
-<h4>First place</h4>
+<h3>First place</h3>
 
 <b>Team Potica</b>
 
-<i>ClÈment Picard, Vito Janko, Nina Reöcic, Martin Gjoreski and Mitja Luötrek </i>
+<i>Cl√©ment Picard, Vito Janko, Nina Re≈°cic, Martin Gjoreski and Mitja Lu≈°trek 
 
-<h4>Second place</h4>
+<h3>Second place</h3>
 
 <b>Team MCSS_USI</b>
 
-<i>Shkurta Gashi, Elena Di Lascio and Silvia Santini</i>
+<i>Shkurta Gashi, Elena Di Lascio and Silvia Santini
 
 <h4>Third place</h4>
 
 <b>Team UCLA_Orion</b>
 
-<i>Swapnil Sayan Saha, Sandeep Singh Sandha and Mani Srivastava<\i>
+<i>Swapnil Sayan Saha, Sandeep Singh Sandha and Mani Srivastava
 
 ##Other participants
 
 <b>TeamIDAG</b>
-<i>Ryoichi Kojima, Shinya Wada, Roberto Legaspi and Kiyohito Yoshihara <\i>
+<i>Ryoichi Kojima, Shinya Wada, Roberto Legaspi and Kiyohito Yoshihara 
 	
 <b>Team rit_scooking</b>
-<i>Atsuhiro Fujii, Daiki Kajiwara and Kazuya Murao<\i>
+<i>Atsuhiro Fujii, Daiki Kajiwara and Kazuya Murao
 	
 <b>Team stillame</b>
-<i>Ninnart Fuengfusin and Hakaru Tamukoh<\i>
+<i>Ninnart Fuengfusin and Hakaru Tamukoh
 
 <b>Team PseudoEmpirical</b>
-<i>Zabir Al Nazi<\i>
+<i>Zabir Al Nazi
 	
 <b>Team YNWA</b>
-<i>Md. Sadman Siraj, Omar Ibne Shahid and M.A.R. Ahad<\i>
+<i>Md. Sadman Siraj, Omar Ibne Shahid and M.A.R. Ahad
 	
 <b>Team cse_sdu</b>
-<i>Mao Donghui<\i>
+<i>Mao Donghui
 
 We thank all participants for their active participation in this challenge!!!
