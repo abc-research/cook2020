@@ -2,6 +2,8 @@
 main:
   - title: "The Challenge"
     url: /learn/
+  - title: "Results"
+    url: /results/
   - title: "Data"
     url: /data_description/
   - title: "Submit a result"
@@ -14,8 +16,6 @@ main:
     url: /about/
   - title: "Registration"
     url: /how_to/
-  - title: "Results"
-    url: /results/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
