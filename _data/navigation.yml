@@ -14,6 +14,8 @@ main:
     url: /about/
   - title: "Registration"
     url: /how_to/
+  - title: "Results"
+    url: /results/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
